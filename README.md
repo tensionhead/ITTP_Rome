@@ -48,3 +48,4 @@ All materials written by:
 * [Holger Dinkel](https://git.embl.de/u/dinkel) (formerly of Gibson Team, European Molecular Biology Laboratory)
 * [Toby Hodges](https://www.github.com/tobyhodges) (Zeller Team, European Molecular Biology Laboratory)
 * [Karin Sasaki](https://github.com/karinsasaki) (EICAT, European Molecular Biology Laboratory)
+* [Gregor Mönke](https://github.com/tensionhead) (Formerly DB unit, European Molecular Biology Laboratory)
