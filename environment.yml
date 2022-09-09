@@ -1,0 +1,7 @@
+name: Py36
+channels:
+- defaults
+dependencies:
+- bokeh=0.12.7=py36_0
+- pandas=0.20.3=py36_0
+- python=3.6.2=0
